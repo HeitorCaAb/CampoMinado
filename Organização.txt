@@ -1,0 +1,10 @@
+    //ImprimeTabuleiroVisivel
+    //VerificaEntrada
+    //ChecaQuantideBombasVizinhas
+    //BombasTotais
+    //Menu -> ajuda/tutorial
+    //ResultadoPartida
+    //AtualizaTabuleiroVisivel
+    //AnotaCordenadasBombasTabuleiroSecreto
+    //LeTabuleiroSecreto
+    //VerificaVizinhasValidas
